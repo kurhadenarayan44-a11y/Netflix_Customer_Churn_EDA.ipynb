@@ -165,8 +165,8 @@ Based on the EDA findings:
 ## ✍️ Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub:https://github.com/kurhadenarayan44-a11y
+- Email: hanmantkurhade77@gmail.com
 
 ## 📄 License
 
